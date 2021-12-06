@@ -249,7 +249,7 @@ animals_walking: Array<Animal>;
               return true;
           }else break;
       }
-    // check if reaady
+    // check if ready
     // see if we have 5 cats
   }
 }
